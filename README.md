@@ -1,5 +1,7 @@
-# SIRIPAT VIRUSHAMORNPHAN
+# Siripat Virushamornphan
 ##### *An inclusive User Experience designer who bring together design, science, and tech to create human-centered solutions.*
+:email:siripat.design@gmail.com  | <a href="https://www.linkedin.com/in/siripatv/">LinkedIn</a> | <a href="https://docs.google.com/presentation/d/1VMYOmMRTI61Gngk6a7yT5dEvcl5LQilnc3Tf_cwDhAI/edit?usp=sharing">Portfolio</a>
+
 
 ## SUMMARY
 I'm a multidisciplinary UX designer with a growth mindset, who values diversity and users' voices. My passion for UX design was affirmed after completing an apprenticeship at BRIDGEGOOD, where I synthesized my science and management training towards user-centered designs. I worked with a few clients to create logos and brand identity while studying graphic design at Diablo Valley College.
