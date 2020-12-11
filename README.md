@@ -2,11 +2,12 @@
 ##### *An inclusive User Experience designer who bring together design, science, and tech to create human-centered solutions.*
 #### SF Bay Area, CA :email:siripat.design@gmail.com  | <a href="https://www.linkedin.com/in/siripatv/">LinkedIn</a> | <a href="https://docs.google.com/presentation/d/1VMYOmMRTI61Gngk6a7yT5dEvcl5LQilnc3Tf_cwDhAI/edit?usp=sharing">Portfolio</a>
 
-
+-------------------------------
 ## SUMMARY
 I'm a multidisciplinary UX designer with a growth mindset, who values diversity and users' voices. My passion for UX design was affirmed after completing an apprenticeship at BRIDGEGOOD, where I synthesized my science and management training towards user-centered designs. I worked with a few clients to create logos and brand identity while studying graphic design at Diablo Valley College.
 As a born problem-solver, my goal is to bring my design expertise and pharmacy background to improve users' experience in the healthcare industry.
 
+-------------------------------
 ## WORK EXPERIENCE
 
 ### BRIDGEGOOD - *Contract UX & Visual Designer*
@@ -51,6 +52,7 @@ As a born problem-solver, my goal is to bring my design expertise and pharmacy b
 - Performed administrative tasks such as stock records; educated junior pharmacists, and pharmacy technicians
 - Qualified clinical professional internship, and BLS training
 
+---------------------------------
 ## SKILLS
 
 - User Experience Design, 
@@ -63,6 +65,7 @@ As a born problem-solver, my goal is to bring my design expertise and pharmacy b
 - Graphic Design & Typography
 - Branding Strategy
 
+----------------------------------
 ## TOOLS
 
 - Design: Illustrator | Adobe Draw
@@ -74,18 +77,21 @@ As a born problem-solver, my goal is to bring my design expertise and pharmacy b
 - Office: Word | Excel | PowerPoint
 - CMS: WordPress
 
+----------------------------------
 ## AWARD
 
 ### BRIDGEGOOD
 Top 20 Inspire Oakland Design Challenge | Oakland ZooFari
 ##### July 2020
 
+----------------------------------
 ## SPEAKING
 
 ### Twilio
 The Power of Design For Social Good | Growth Mindset
 ##### September 2020
 
+-----------------------------------
 ## EDUCATION | CERTIFICATION
 
 ### BRIDGEGOOD | Oakland, CA
@@ -99,6 +105,7 @@ MBA, Marketing | November 2012
 ### Mahidol University | Bangkok, Thailand
 B.Sc, Pharmacy | March 2005
 
+-------------------------------------
 ## LANGUAGES
 Thai | English | Khmer
 
