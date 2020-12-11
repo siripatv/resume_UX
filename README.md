@@ -86,8 +86,10 @@ Top 20 Inspire Oakland Design Challenge | Oakland ZooFari
 The Power of Design For Social Good | Growth Mindset
 ##### September 2020
 
-## EDUCATION
+## EDUCATION | CERTIFICATION
 
+### BRIDGEGOOD | Oakland, CA
+UX Design Certification | Aug 2020
 ### Diablo Valley College | Plesant Hill, CA
 AA, Graphic Design | May 2020
 ### Diablo Valley College | Plesant Hill, CA
