@@ -1,6 +1,6 @@
 # Siripat Virushamornphan
 ##### *An inclusive User Experience designer who bring together design, science, and tech to create human-centered solutions.*
-:email:siripat.design@gmail.com  | <a href="https://www.linkedin.com/in/siripatv/">LinkedIn</a> | <a href="https://docs.google.com/presentation/d/1VMYOmMRTI61Gngk6a7yT5dEvcl5LQilnc3Tf_cwDhAI/edit?usp=sharing">Portfolio</a>
+#### SF Bay Area, CA :email:siripat.design@gmail.com  | <a href="https://www.linkedin.com/in/siripatv/">LinkedIn</a> | <a href="https://docs.google.com/presentation/d/1VMYOmMRTI61Gngk6a7yT5dEvcl5LQilnc3Tf_cwDhAI/edit?usp=sharing">Portfolio</a>
 
 
 ## SUMMARY
@@ -50,5 +50,57 @@ As a born problem-solver, my goal is to bring my design expertise and pharmacy b
 - Performed a mix of pharmacist tasks including preparing medication, dispensing prescriptions, communicating with prescribers, and maintaining quality records and controls
 - Performed administrative tasks such as stock records; educated junior pharmacists, and pharmacy technicians
 - Qualified clinical professional internship, and BLS training
+
+## SKILLS
+
+- User Experience Design, 
+- User Research & Usability Testing
+- Design Thinking
+- Informative Architecture
+- User Flows
+- Competitive Analysis
+- Wireframing & Prototyping
+- Graphic Design & Typography
+- Branding Strategy
+
+## TOOLS
+
+- Design: Illustrator | Adobe Draw
+- Wireframe & Prototype: Adobe XD | Balsamiq | Figma
+- Diagram: Draw.io
+- Photography & Video Editing: Photoshop | Lightroom | Premiere Pro
+- Collaboration: Slack | Trello | G-Suite | Miro
+- HTML5/CSS3  | FTP Client
+- Office: Word | Excel | PowerPoint
+- CMS: WordPress
+
+## AWARD
+
+### BRIDGEGOOD
+Top 20 Inspire Oakland Design Challenge | Oakland ZooFari
+##### July 2020
+
+## SPEAKING
+
+### Twilio
+The Power of Design For Social Good | Growth Mindset
+##### September 2020
+
+## EDUCATION
+
+### Diablo Valley College | Plesant Hill, CA
+AA, Graphic Design | May 2020
+### Diablo Valley College | Plesant Hill, CA
+AS, Allied Health | August 2019
+### Ramkhamhaeng University | Bangkok, Thailand
+MBA, Marketing | November 2012
+### Mahidol University | Bangkok, Thailand
+B.Sc, Pharmacy | March 2005
+
+## LANGUAGES
+Thai | English | Khmer
+
+
+
 
 
